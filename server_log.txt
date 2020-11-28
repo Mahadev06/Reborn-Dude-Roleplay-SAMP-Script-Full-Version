@@ -1,0 +1,599 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:33:47] filterscripts = ""  (string)
+[10:33:47] 
+[10:33:47] Server Plugins
+[10:33:47] --------------
+[10:33:47]  Loading plugin: sscanf
+[10:33:47] 
+
+[10:33:47]  ===============================
+
+[10:33:47]       sscanf plugin loaded.     
+
+[10:33:47]          Version:  2.8.1        
+
+[10:33:47]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:33:47]  ===============================
+
+[10:33:47]   Loaded.
+[10:33:47]  Loading plugin: streamer
+[10:33:47] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[10:33:47]   Loaded.
+[10:33:47]  Loaded 2 plugins.
+
+[10:33:47] 
+[10:33:47] Filterscripts
+[10:33:47] ---------------
+[10:33:47]   Loaded 0 filterscripts.
+
+[10:33:48] Total Businesses Loaded: 59
+[10:33:48] Total Properties Loaded: 119
+[10:33:48] Total Organizations Loaded: 9
+[10:33:48] Number of vehicle models: 109
+[10:34:47] [connection] 192.168.225.140:53140 requests connection cookie.
+[10:34:48] [connection] incoming connection: 192.168.225.140:53140 id: 0
+[10:34:48] [join] Nick_YT has joined the server (0:192.168.225.140)
+[10:35:24] [part] Nick_YT has left the server (0:1)
+[10:36:44] [connection] 192.168.225.140:54702 requests connection cookie.
+[10:36:45] [connection] incoming connection: 192.168.225.140:54702 id: 0
+[10:36:45] [join] Nick_YT has joined the server (0:192.168.225.140)
+[10:38:46] [part] Nick_YT has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:19:50] filterscripts = ""  (string)
+[21:19:50] 
+[21:19:50] Server Plugins
+[21:19:50] --------------
+[21:19:50]  Loading plugin: sscanf
+[21:19:50] 
+
+[21:19:50]  ===============================
+
+[21:19:50]       sscanf plugin loaded.     
+
+[21:19:50]          Version:  2.8.1        
+
+[21:19:50]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:19:50]  ===============================
+
+[21:19:50]   Loaded.
+[21:19:50]  Loading plugin: streamer
+[21:19:51] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[21:19:51]   Loaded.
+[21:19:51]  Loaded 2 plugins.
+
+[21:19:51] 
+[21:19:51] Filterscripts
+[21:19:51] ---------------
+[21:19:51]   Loaded 0 filterscripts.
+
+[21:19:51] Total Businesses Loaded: 59
+[21:19:51] Total Properties Loaded: 119
+[21:19:51] Total Organizations Loaded: 9
+[21:19:51] Number of vehicle models: 109
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:33:19] filterscripts = ""  (string)
+[21:33:19] 
+[21:33:19] Server Plugins
+[21:33:19] --------------
+[21:33:19]  Loading plugin: sscanf
+[21:33:19] 
+
+[21:33:19]  ===============================
+
+[21:33:19]       sscanf plugin loaded.     
+
+[21:33:19]          Version:  2.8.1        
+
+[21:33:19]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:33:19]  ===============================
+
+[21:33:19]   Loaded.
+[21:33:19]  Loading plugin: streamer
+[21:33:19] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[21:33:19]   Loaded.
+[21:33:19]  Loaded 2 plugins.
+
+[21:33:19] 
+[21:33:19] Filterscripts
+[21:33:19] ---------------
+[21:33:19]   Loaded 0 filterscripts.
+
+[21:33:20] Total Businesses Loaded: 59
+[21:33:20] Total Properties Loaded: 119
+[21:33:20] Total Organizations Loaded: 9
+[21:33:20] Number of vehicle models: 109
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:00:01] filterscripts = ""  (string)
+[22:00:01] 
+[22:00:01] Server Plugins
+[22:00:01] --------------
+[22:00:01]  Loading plugin: sscanf
+[22:00:01] 
+
+[22:00:01]  ===============================
+
+[22:00:01]       sscanf plugin loaded.     
+
+[22:00:01]          Version:  2.8.1        
+
+[22:00:01]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:00:01]  ===============================
+
+[22:00:01]   Loaded.
+[22:00:01]  Loading plugin: streamer
+[22:00:01] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[22:00:01]   Loaded.
+[22:00:01]  Loaded 2 plugins.
+
+[22:00:02] 
+[22:00:02] Filterscripts
+[22:00:02] ---------------
+[22:00:02]   Loaded 0 filterscripts.
+
+[22:00:02] Total Businesses Loaded: 59
+[22:00:02] Total Properties Loaded: 119
+[22:00:02] Total Organizations Loaded: 9
+[22:00:02] Number of vehicle models: 109
+[22:00:33] [connection] 192.168.225.140:53284 requests connection cookie.
+[22:00:34] [connection] incoming connection: 192.168.225.140:53284 id: 0
+[22:00:34] [join] Alan_Walker has joined the server (0:192.168.225.140)
+[22:05:59] [part] Alan_Walker has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:15:37] filterscripts = ""  (string)
+[12:15:37] 
+[12:15:37] Server Plugins
+[12:15:37] --------------
+[12:15:37]  Loading plugin: sscanf
+[12:15:37] 
+
+[12:15:37]  ===============================
+
+[12:15:37]       sscanf plugin loaded.     
+
+[12:15:37]          Version:  2.8.1        
+
+[12:15:37]    (c) 2012 Alex "Y_Less" Cole  
+
+[12:15:37]  ===============================
+
+[12:15:37]   Loaded.
+[12:15:37]  Loading plugin: streamer
+[12:15:37] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[12:15:37]   Loaded.
+[12:15:37]  Loaded 2 plugins.
+
+[12:15:37] 
+[12:15:37] Filterscripts
+[12:15:37] ---------------
+[12:15:37]   Loaded 0 filterscripts.
+
+[12:15:38] Total Businesses Loaded: 59
+[12:15:38] Total Properties Loaded: 119
+[12:15:38] Total Organizations Loaded: 9
+[12:15:38] Number of vehicle models: 109
+[12:16:18] [connection] 192.168.225.140:63953 requests connection cookie.
+[12:16:19] [connection] incoming connection: 192.168.225.140:63953 id: 0
+[12:16:19] [join] Alan_Walker has joined the server (0:192.168.225.140)
+[12:22:19] [part] Alan_Walker has left the server (0:1)
+[12:22:41] [connection] 192.168.225.140:58428 requests connection cookie.
+[12:22:42] [connection] incoming connection: 192.168.225.140:58428 id: 0
+[12:22:42] [join] Alan_Walker has joined the server (0:192.168.225.140)
+[12:24:14] [part] Alan_Walker has left the server (0:1)
+[12:25:15] [connection] 192.168.225.140:58717 requests connection cookie.
+[12:25:16] [connection] incoming connection: 192.168.225.140:58717 id: 0
+[12:25:16] [join] Alan_Walker has joined the server (0:192.168.225.140)
+[12:35:17] [part] Alan_Walker has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:49:54] filterscripts = ""  (string)
+[13:49:54] 
+[13:49:54] Server Plugins
+[13:49:54] --------------
+[13:49:54]  Loading plugin: sscanf
+[13:49:54] 
+
+[13:49:54]  ===============================
+
+[13:49:54]       sscanf plugin loaded.     
+
+[13:49:54]          Version:  2.8.1        
+
+[13:49:54]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:49:54]  ===============================
+
+[13:49:54]   Loaded.
+[13:49:54]  Loading plugin: streamer
+[13:49:54] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[13:49:54]   Loaded.
+[13:49:54]  Loaded 2 plugins.
+
+[13:49:55] 
+[13:49:55] Filterscripts
+[13:49:55] ---------------
+[13:49:55]   Loaded 0 filterscripts.
+
+[13:49:55] Total Businesses Loaded: 59
+[13:49:55] Total Properties Loaded: 119
+[13:49:55] Total Organizations Loaded: 9
+[13:49:55] Number of vehicle models: 109
+[13:50:34] [connection] 192.168.43.135:51815 requests connection cookie.
+[13:50:35] [connection] incoming connection: 192.168.43.135:51815 id: 0
+[13:50:36] [join] Alan_Walker has joined the server (0:192.168.43.135)
+[14:00:51] [part] Alan_Walker has left the server (0:2)
+[14:05:46] [connection] 192.168.43.135:62877 requests connection cookie.
+[14:05:47] [connection] incoming connection: 192.168.43.135:62877 id: 0
+[14:05:47] [join] Alan_Walker has joined the server (0:192.168.43.135)
+[14:10:31] [part] Alan_Walker has left the server (0:1)
+[14:10:55] [connection] 192.168.43.135:61474 requests connection cookie.
+[14:10:56] [connection] incoming connection: 192.168.43.135:61474 id: 0
+[14:10:56] [join] Alan_Walker has joined the server (0:192.168.43.135)
+[14:12:41] [part] Alan_Walker has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:12:31] filterscripts = ""  (string)
+[20:12:31] 
+[20:12:31] Server Plugins
+[20:12:31] --------------
+[20:12:31]  Loading plugin: sscanf
+[20:12:31] 
+
+[20:12:31]  ===============================
+
+[20:12:31]       sscanf plugin loaded.     
+
+[20:12:31]          Version:  2.8.1        
+
+[20:12:31]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:12:31]  ===============================
+
+[20:12:31]   Loaded.
+[20:12:31]  Loading plugin: streamer
+[20:12:31] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[20:12:31]   Loaded.
+[20:12:31]  Loaded 2 plugins.
+
+[20:12:31] I couldn't load any gamemode scripts. Please verify your server.cfg
+[20:12:31] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:07:07] filterscripts = ""  (string)
+[10:07:07] 
+[10:07:07] Server Plugins
+[10:07:07] --------------
+[10:07:07]  Loading plugin: sscanf
+[10:07:08] 
+
+[10:07:08]  ===============================
+
+[10:07:08]       sscanf plugin loaded.     
+
+[10:07:08]          Version:  2.8.1        
+
+[10:07:08]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:07:08]  ===============================
+
+[10:07:08]   Loaded.
+[10:07:08]  Loading plugin: streamer
+[10:07:08] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[10:07:08]   Loaded.
+[10:07:08]  Loaded 2 plugins.
+
+[10:07:08] 
+[10:07:08] Filterscripts
+[10:07:08] ---------------
+[10:07:08]   Loaded 0 filterscripts.
+
+[10:07:09] Total Businesses Loaded: 59
+[10:07:09] Total Properties Loaded: 119
+[10:07:09] Total Organizations Loaded: 9
+[10:07:09] Number of vehicle models: 109
+[10:08:11] [connection] 192.168.225.140:60170 requests connection cookie.
+[10:08:12] [connection] incoming connection: 192.168.225.140:60170 id: 0
+[10:08:13] [join] [MFRP]Nick has joined the server (0:192.168.225.140)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:13:28] filterscripts = ""  (string)
+[10:13:28] 
+[10:13:28] Server Plugins
+[10:13:28] --------------
+[10:13:28]  Loading plugin: sscanf
+[10:13:28] 
+
+[10:13:28]  ===============================
+
+[10:13:28]       sscanf plugin loaded.     
+
+[10:13:28]          Version:  2.8.1        
+
+[10:13:28]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:13:28]  ===============================
+
+[10:13:28]   Loaded.
+[10:13:28]  Loading plugin: streamer
+[10:13:28] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[10:13:28]   Loaded.
+[10:13:28]  Loaded 2 plugins.
+
+[10:13:28] 
+[10:13:28] Filterscripts
+[10:13:28] ---------------
+[10:13:28]   Loaded 0 filterscripts.
+
+[10:13:29] Total Businesses Loaded: 59
+[10:13:29] Total Properties Loaded: 119
+[10:13:29] Total Organizations Loaded: 9
+[10:13:29] Number of vehicle models: 109
+[10:13:31] [connection] 192.168.225.140:58184 requests connection cookie.
+[10:13:32] [connection] incoming connection: 192.168.225.140:58184 id: 0
+[10:13:32] [join] [MFRP]Nick has joined the server (0:192.168.225.140)
+[10:20:22] [part] [MFRP]Nick has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:34:48] filterscripts = ""  (string)
+[14:34:48] 
+[14:34:48] Server Plugins
+[14:34:48] --------------
+[14:34:48]  Loading plugin: sscanf
+[14:34:48] 
+
+[14:34:48]  ===============================
+
+[14:34:48]       sscanf plugin loaded.     
+
+[14:34:48]          Version:  2.8.1        
+
+[14:34:48]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:34:48]  ===============================
+
+[14:34:48]   Loaded.
+[14:34:48]  Loading plugin: streamer
+[14:34:48] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[14:34:48]   Loaded.
+[14:34:48]  Loading plugin: discord-connector.dll
+[14:34:48]   Failed.
+[14:34:48]  Loaded 2 plugins.
+
+[14:34:48] 
+[14:34:48] Filterscripts
+[14:34:48] ---------------
+[14:34:48]   Loaded 0 filterscripts.
+
+[14:34:49] Total Businesses Loaded: 59
+[14:34:49] Total Properties Loaded: 119
+[14:34:49] Total Organizations Loaded: 9
+[14:34:49] Number of vehicle models: 109
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:35:32] filterscripts = ""  (string)
+[14:35:32] 
+[14:35:32] Server Plugins
+[14:35:32] --------------
+[14:35:32]  Loading plugin: sscanf
+[14:35:32] 
+
+[14:35:32]  ===============================
+
+[14:35:32]       sscanf plugin loaded.     
+
+[14:35:32]          Version:  2.8.1        
+
+[14:35:32]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:35:32]  ===============================
+
+[14:35:32]   Loaded.
+[14:35:32]  Loading plugin: streamer
+[14:35:32] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[14:35:32]   Loaded.
+[14:35:32]  Loading plugin: discord-connector
+[14:35:32]   Failed.
+[14:35:32]  Loaded 2 plugins.
+
+[14:35:32] 
+[14:35:32] Filterscripts
+[14:35:32] ---------------
+[14:35:32]   Loaded 0 filterscripts.
+
+[14:35:33] Total Businesses Loaded: 59
+[14:35:33] Total Properties Loaded: 119
+[14:35:33] Total Organizations Loaded: 9
+[14:35:33] Number of vehicle models: 109
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:24:34] filterscripts = ""  (string)
+[15:24:34] 
+[15:24:34] Server Plugins
+[15:24:34] --------------
+[15:24:34]  Loading plugin: sscanf
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:17:12] filterscripts = ""  (string)
+[09:17:12] 
+[09:17:12] Server Plugins
+[09:17:12] --------------
+[09:17:12]  Loading plugin: sscanf
+[09:17:12] 
+
+[09:17:12]  ===============================
+
+[09:17:12]       sscanf plugin loaded.     
+
+[09:17:12]          Version:  2.8.1        
+
+[09:17:12]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:17:12]  ===============================
+
+[09:17:12]   Loaded.
+[09:17:12]  Loading plugin: streamer
+[09:17:12] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[09:17:12]   Loaded.
+[09:17:12]  Loading plugin: sampvoice.dll
+[09:17:12] [sv:dbg:network:init] : module initializing...
+[09:17:12] [dbg:raknet:init] : module initializing...
+[09:17:12] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[09:17:12] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[09:17:12] [dbg:raknet:init] : module initialized
+[09:17:12] [sv:dbg:network:init] : module initialized
+[09:17:13]  -------------------------------------------    
+[09:17:13]    ___                __   __    _              
+[09:17:13]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[09:17:13]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[09:17:13]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[09:17:13]                   |_|                           
+[09:17:13]  -------------------------------------------    
+[09:17:13]            SampVoice by MOR loaded              
+[09:17:13]  -------------------------------------------    
+[09:17:13]   Loaded.
+[09:17:13]  Loaded 3 plugins.
+
+[09:17:13] 
+[09:17:13] Filterscripts
+[09:17:13] ---------------
+[09:17:13]   Loaded 0 filterscripts.
+
+[09:17:13] [sv:dbg:main:AmxLoad] : net game pointer (value:00569030) received
+[09:17:13] [sv:dbg:network:bind] : voice server running on port 62883
+[09:17:13] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[09:17:13] Number of vehicle models: 1

@@ -1,0 +1,24 @@
+[09:17:12] : [sv:dbg:network:init] : module initializing...
+[09:17:12] : [dbg:raknet:init] : module initializing...
+[09:17:12] : [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[09:17:12] : [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[09:17:12] : [dbg:raknet:init] : module initialized
+[09:17:12] : [sv:dbg:network:init] : module initialized
+[09:17:12] : [sv:dbg:pawn:init] : module initializing...
+[09:17:12] : [sv:dbg:pawn:init] : module initialized
+[09:17:13] :  -------------------------------------------    
+[09:17:13] :    ___                __   __    _              
+[09:17:13] :   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[09:17:13] :   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[09:17:13] :   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[09:17:13] :                   |_|                           
+[09:17:13] :  -------------------------------------------    
+[09:17:13] :            SampVoice by MOR loaded              
+[09:17:13] :  -------------------------------------------    
+[09:17:13] : [sv:dbg:main:AmxLoad] : net game pointer (value:00569030) received
+[09:17:13] : [sv:dbg:network:bind] : voice server running on port 62883
+[09:17:13] : [sv:dbg:pawn:register] : finding 'OnPlayerActivationKeyPress' callback function...
+[09:17:13] : [sv:dbg:pawn:register] : finded 'OnPlayerActivationKeyPress' callback function (index:1)
+[09:17:13] : [sv:dbg:pawn:register] : finding 'OnPlayerActivationKeyRelease' callback function...
+[09:17:13] : [sv:dbg:pawn:register] : finded 'OnPlayerActivationKeyRelease' callback function (index:2)
+[09:19:42] :  -------------------------------------------
